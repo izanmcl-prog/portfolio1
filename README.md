@@ -1,1 +1,13 @@
-# portfolio
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera página</title>
+</head>
+<body>
+    <h1>Esta es mi primera página</h1>
+    <h2>Sobre mi</h2>
+    <p>Mi nombre es Izan, tengo 17 años</p>
+</body>
+</html># portfolio
